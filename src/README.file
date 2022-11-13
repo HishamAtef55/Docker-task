@@ -1,0 +1,9 @@
+1 -- sorry for sending files like that i try to send to the folder 
+but it doesnt allowed 
+2-- my app is node page 
+3- i have add some feature to my app from docker concept like
+   * 1- docker hot reload which make container amirroring of localapp
+   * 2- docker volume i used one-way-binding 
+   * 3- docker annonyms Boolien to keep my folder /app which mypage depends on it
+
+  ------------------- Thank You ---     
